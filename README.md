@@ -23,4 +23,4 @@ Master-master
 ![alt text](https://github.com/cheytac404/sql1/blob/main/1.png)
 ![alt text](https://github.com/cheytac404/sql1/blob/main/11.png)
 ![alt text](https://github.com/cheytac404/sql1/blob/main/2.png)
-![alt text](https://github.com/cheytac404/sql1/blob/main/22.png)
+![alt text](https://github.com/cheytac404/sql1/blob/main/222.png)
